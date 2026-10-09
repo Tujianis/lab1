@@ -80,6 +80,16 @@ h1 {
     border-radius: 8px 8px 0 0;
 }
 
+h5 {
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 10px;
+    font-weight: 700;
+    background-color: #85acde;
+    border-bottom: 1px solid #85acde;
+    border-radius: 6px 6px 0 0;
+}
+
 /* Request form */
 form {
     max-width: 820px;
